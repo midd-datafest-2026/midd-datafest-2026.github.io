@@ -1,0 +1,27 @@
+---
+---
+
+## Room assignments
+
+The table below provides the room assignments. 
+
+```{r, echo= F, message = F, warning = F}
+# randomize groups
+library(readr)
+library(tidyverse)
+teams <- read_csv("Team registration (Responses) - Form Responses 1.csv")
+
+# counts
+n219 <- floor(nrow(teams)/2)
+n104 <- nrow(teams) - n219
+
+set.seed(04062025)
+tibble(
+  team = teams[,2] %>% unlist() %>% unname(),
+  room = sample(c(rep("219", n219), rep("104", n104)), size = nrow(teams), replace = F)
+) %>%
+  knitr::kable()
+
+
+
+```

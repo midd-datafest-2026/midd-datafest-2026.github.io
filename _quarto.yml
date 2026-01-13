@@ -1,0 +1,42 @@
+project:
+  type: website
+
+website:
+  title: "ASA DataFest 2026"
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "Stay tuned for DataFest 2026 updates!"
+    type: primary
+    position: below-navbar
+  navbar:
+    search: true
+    left:
+      - text: About DataFest
+        href: index.qmd
+      - text: Register
+        href: register.qmd
+      # - text: Schedule
+      #   href: schedule.qmd
+      # - text: Volunteer sign-up
+      #   href: volunteers.qmd
+      # - text: Data access
+      #   href: data.qmd
+      # - text: Room assignment
+      #   href: room_assign.qmd
+    tools:
+      - icon: envelope-at
+        href: mailto:cstratton@middlebury.edu
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
+
+
+# quarto render
+# quarto publish gh-pages

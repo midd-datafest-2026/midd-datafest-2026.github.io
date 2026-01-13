@@ -1,0 +1,14 @@
+---
+---
+
+## Individual registration
+
+Students are encouraged to register for the event via the Google form below. We will facilitate forming of new groups during the event for those who cannot find a team prior to the event. 
+
+<a href="https://forms.gle/HGhTqkWNAgynK6deA" class="btn btn-primary" color="gold">Link to Google form</a>
+
+<!-- ## Team registration for presentations -->
+
+<!-- If you intend to present, please submit a single response to the Google form below so that we know how many presentations to expect.  -->
+
+<!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSfbxv3n6q232ZIY2uFhuHcoxsY-tl6CH4RNTOV4Yv2Co2SYyA/viewform?usp=sharing" class="btn btn-primary" color="gold">Link to Google form</a> -->

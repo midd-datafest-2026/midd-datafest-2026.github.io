@@ -1,0 +1,17 @@
+{
+  "hash": "976c9c99d848bd59158c6244261c3aa5",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\n---\n\n\n\n\n## Room assignments\n\nThe table below provides the room assignments. \n\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n\n\n|team                                                  |room |\n|:-----------------------------------------------------|:----|\n|ggBoom() LLC                                          |104  |\n|The Canada Giraffes                                   |219  |\n|LYFORD & SONS. CO. LLC. LTD. Corp. Inc. Incorporated. |219  |\n|Tech-focused Law Firm                                 |104  |\n|SMACT                                                 |219  |\n|Random Forest Rangers                                 |219  |\n|Theinsights                                           |104  |\n|Statistically Significant Events                      |219  |\n|Standard Stratviations                                |104  |\n|Arch Shield                                           |104  |\n|Data divas                                            |219  |\n|Lia and Maria                                         |104  |\n|*I didn't think of one                                |104  |\n\n\n:::\n:::",
+    "supporting": [
+      "room_assign_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

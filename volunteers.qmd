@@ -1,0 +1,12 @@
+---
+---
+## Volunteers
+
+We are seeking volunteers to serve as judges or mentors for the event.
+
+  - **Mentors** are present during the work hours to interact with groups and answer questions that arise. To be a mentor, no technical expertise is required. Mentors should feel empowered to offer technical advice if they so choose, but are primarily there to facilitate discussion among participants. 
+  - **Judges** will watch presentations on Sunday (from 11:00 am - 1:00 pm) and help award prizes; again, no technical expertise is required. 
+  
+If you are interested in participating as either a judge or mentor, please use the Google sheet below to sign-up for times.
+
+<a href="https://docs.google.com/spreadsheets/d/1Aq87DcSTx56oINSLgNco86czNbM5GDiOpcM4a4OqRFE/edit?usp=sharing" class="btn btn-primary" color="gold">Link to sign-up sheet</a>
