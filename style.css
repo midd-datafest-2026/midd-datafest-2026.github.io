@@ -1,8 +1,22 @@
 /* css styles */
-.quarto-title > h1.title {
-  text-align: center;
+:root{
+  --midd-blue: #0D395F;
 }
 
-.quarto-title > h4.title {
-  font-weight: bold;
+/* Navbar */
+/* .navbar, .navbar-dark, .navbar-light {
+/*  background-color: var(--midd-blue) !important;
+/* }
+
+/* Links */
+a { color: var(--midd-blue); }
+a:hover { opacity: 0.85; }
+
+/* Primary buttons */
+.btn-primary{
+  background-color: var(--midd-blue);
+  border-color: var(--midd-blue);
+}
+.btn-primary:hover{
+  filter: brightness(0.95);
 }
