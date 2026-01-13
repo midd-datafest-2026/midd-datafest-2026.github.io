@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "ASA DataFest 2026",
+    "section": "",
+    "text": "The following is provided verbatim from the American Statistical Association:\nData provided by Savill’s for this DataFest project are not public. These data are proprietary and are only to be used for the purposes of the American Statistical Association’s DataFest. By using this data, you agree to:\n\nDuring participation in ASA’s DataFest, store and manage the data securely and privately. This means you may NOT upload the data to websites that may provide access to the data to anyone other than yourselves. (For example, if using Tableau, Github, ChatGPT, make sure privacy settings prevent others from seeing or accessing the data.) If you are not sure, then don’t use that service! (Note: Rstudio Cloud does not have access to your data and so you can use it.)\nErase all data after your ASA’s DataFest participation is complete.\nNot identify or attempt to identify the information contained in the dataset, nor contact any of the individuals whose information is contained in the dataset.\nComply with all applicable U.S. federal and state laws and regulations relating to the maintenance of the dataset, the safeguarding of the confidentiality of the dataset, and the use and disclosure of the dataset.\nNot publish results of your analysis of the data except that the final products of the competetion (video, slide deck, one-page summary) may be displayed on team members’ websites and on campus ASA DataFest websites.\nNot share the data with anyone who is not a participant of ASA DataFest.\n\nFinally, please do NOT reveal the source of the data or any features of the data to ANYONE before May 3. This will ensure that all ASA DataFest participants around the globe have the same experience with the data as you. This means to not post anything to social media that might reveal clues, and to make sure that public github repositories are not discoverable (and if they are, that identifying work is removed).\n\n\n\nAll data files are provided via Google drive: here. Note that you must use your Middlebury email address to access this file."
+  },
+  {
+    "objectID": "data.html#data",
+    "href": "data.html#data",
+    "title": "ASA DataFest 2026",
+    "section": "",
+    "text": "The following is provided verbatim from the American Statistical Association:\nData provided by Savill’s for this DataFest project are not public. These data are proprietary and are only to be used for the purposes of the American Statistical Association’s DataFest. By using this data, you agree to:\n\nDuring participation in ASA’s DataFest, store and manage the data securely and privately. This means you may NOT upload the data to websites that may provide access to the data to anyone other than yourselves. (For example, if using Tableau, Github, ChatGPT, make sure privacy settings prevent others from seeing or accessing the data.) If you are not sure, then don’t use that service! (Note: Rstudio Cloud does not have access to your data and so you can use it.)\nErase all data after your ASA’s DataFest participation is complete.\nNot identify or attempt to identify the information contained in the dataset, nor contact any of the individuals whose information is contained in the dataset.\nComply with all applicable U.S. federal and state laws and regulations relating to the maintenance of the dataset, the safeguarding of the confidentiality of the dataset, and the use and disclosure of the dataset.\nNot publish results of your analysis of the data except that the final products of the competetion (video, slide deck, one-page summary) may be displayed on team members’ websites and on campus ASA DataFest websites.\nNot share the data with anyone who is not a participant of ASA DataFest.\n\nFinally, please do NOT reveal the source of the data or any features of the data to ANYONE before May 3. This will ensure that all ASA DataFest participants around the globe have the same experience with the data as you. This means to not post anything to social media that might reveal clues, and to make sure that public github repositories are not discoverable (and if they are, that identifying work is removed).\n\n\n\nAll data files are provided via Google drive: here. Note that you must use your Middlebury email address to access this file."
+  },
+  {
+    "objectID": "volunteers.html",
+    "href": "volunteers.html",
+    "title": "ASA DataFest 2026",
+    "section": "",
+    "text": "We are seeking volunteers to serve as judges or mentors for the event.\n\nMentors are present during the work hours to interact with groups and answer questions that arise. To be a mentor, no technical expertise is required. Mentors should feel empowered to offer technical advice if they so choose, but are primarily there to facilitate discussion among participants.\nJudges will watch presentations on Sunday (from 11:00 am - 1:00 pm) and help award prizes; again, no technical expertise is required.\n\nIf you are interested in participating as either a judge or mentor, please use the Google sheet below to sign-up for times.\nLink to sign-up sheet"
+  },
+  {
+    "objectID": "volunteers.html#volunteers",
+    "href": "volunteers.html#volunteers",
+    "title": "ASA DataFest 2026",
+    "section": "",
+    "text": "We are seeking volunteers to serve as judges or mentors for the event.\n\nMentors are present during the work hours to interact with groups and answer questions that arise. To be a mentor, no technical expertise is required. Mentors should feel empowered to offer technical advice if they so choose, but are primarily there to facilitate discussion among participants.\nJudges will watch presentations on Sunday (from 11:00 am - 1:00 pm) and help award prizes; again, no technical expertise is required.\n\nIf you are interested in participating as either a judge or mentor, please use the Google sheet below to sign-up for times.\nLink to sign-up sheet"
+  },
+  {
+    "objectID": "room_assign.html",
+    "href": "room_assign.html",
+    "title": "ASA DataFest 2026",
+    "section": "",
+    "text": "The table below provides the room assignments.\n\n\n\n\n\nteam\nroom\n\n\n\n\nggBoom() LLC\n104\n\n\nThe Canada Giraffes\n219\n\n\nLYFORD & SONS. CO. LLC. LTD. Corp. Inc. Incorporated.\n219\n\n\nTech-focused Law Firm\n104\n\n\nSMACT\n219\n\n\nRandom Forest Rangers\n219\n\n\nTheinsights\n104\n\n\nStatistically Significant Events\n219\n\n\nStandard Stratviations\n104\n\n\nArch Shield\n104\n\n\nData divas\n219\n\n\nLia and Maria\n104\n\n\n*I didn’t think of one\n104"
+  },
+  {
+    "objectID": "room_assign.html#room-assignments",
+    "href": "room_assign.html#room-assignments",
+    "title": "ASA DataFest 2026",
+    "section": "",
+    "text": "The table below provides the room assignments.\n\n\n\n\n\nteam\nroom\n\n\n\n\nggBoom() LLC\n104\n\n\nThe Canada Giraffes\n219\n\n\nLYFORD & SONS. CO. LLC. LTD. Corp. Inc. Incorporated.\n219\n\n\nTech-focused Law Firm\n104\n\n\nSMACT\n219\n\n\nRandom Forest Rangers\n219\n\n\nTheinsights\n104\n\n\nStatistically Significant Events\n219\n\n\nStandard Stratviations\n104\n\n\nArch Shield\n104\n\n\nData divas\n219\n\n\nLia and Maria\n104\n\n\n*I didn’t think of one\n104"
+  },
+  {
+    "objectID": "register.html",
+    "href": "register.html",
+    "title": "ASA DataFest 2026",
+    "section": "",
+    "text": "Students are encouraged to register for the event via the Google form below. We will facilitate forming of new groups during the event for those who cannot find a team prior to the event.\nLink to Google form"
+  },
+  {
+    "objectID": "register.html#individual-registration",
+    "href": "register.html#individual-registration",
+    "title": "ASA DataFest 2026",
+    "section": "",
+    "text": "Students are encouraged to register for the event via the Google form below. We will facilitate forming of new groups during the event for those who cannot find a team prior to the event.\nLink to Google form"
+  },
+  {
+    "objectID": "index.html#what-is-datafest",
+    "href": "index.html#what-is-datafest",
+    "title": "ASA DataFest 2026",
+    "section": "What is DataFest?",
+    "text": "What is DataFest?\nThe American Statistical Association (ASA) DataFest is a celebration of data in which teams of students work around the clock to find and share meaning in a large, rich, and complex data set. The event is open to students of all backgrounds, and provides an opportunity to gain hands-on experience with real-world data."
+  },
+  {
+    "objectID": "index.html#how-does-it-work",
+    "href": "index.html#how-does-it-work",
+    "title": "ASA DataFest 2026",
+    "section": "How does it work?",
+    "text": "How does it work?\nA large, complex data set will be introduced at the event start, alongside a broad research question. Students will then have until Sunday to create a five-minute presentation that addresses some interesting aspect of the data. The data are kept confidential until the start of the event, but some examples of past events are provided below. To see a full list of past data, visit the ASA DataFest webpage.\n\n\n\n\n\n\nNotePlay2Prevent Lab, Yale School of Medicine (2022)\n\n\n\nAnalyze game logs of the Elm City game to determine if there are coherent styles of play that might be useful for characterizing middle school students’ attitudes towards risky behaviors.\n\n\n\n\n\n\n\n\nNoteRocky Mountain Poison Control Center (2021)\n\n\n\nGoal: Provide advice for medical professionals that could identify potential misuse of prescription drugs. Data consisted of over 10,000 responses to an international survey about prescription drug use.\n\n\n\n\n\n\n\n\nNoteCanadian National Women’s Rugby Team (2019)\n\n\n\nHow do we quantify the role of fatigue and workload in a team’s performance in Rugby 7s? How reliable are the subjective wellness Data? Should the quality of the opponent or the outcome of the game be considered when examining fatigue during a game? Can widely used measurements of training load and fatigue be improved? How reliable are GPS data in quantifying fatigue?"
+  },
+  {
+    "objectID": "index.html#event-details",
+    "href": "index.html#event-details",
+    "title": "ASA DataFest 2026",
+    "section": "Event Details",
+    "text": "Event Details\n\nTBD."
+  },
+  {
+    "objectID": "index.html#volunteers",
+    "href": "index.html#volunteers",
+    "title": "ASA DataFest 2026",
+    "section": "Volunteers",
+    "text": "Volunteers\nWe are seeking volunteers to serve as judges or mentors for the event.\n\nMentors are present during the work hours to interact with groups and answer questions that arise. To be a mentor, no technical expertise is required. Mentors should feel empowered to offer technical advice if they so choose, but are primarily there to facilitate discussion among participants.\nJudges will watch presentations on Sunday and help award prizes; again, no technical expertise is required.\n\nIf you are interested in participating as either a judge or mentor, please contact the Statistics faculty or sign up via the website below.\n\nFor more details, please contact the Statistics faculty members (cstratton@middlebury.edu)."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "ASA DataFest 2026",
+    "section": "",
+    "text": "The event will be held at the Q-Center (MBH 202) and will start on April 4th. Notable times are provided below.\n\n\n\nOpening ceremony: 6:00 pm - 6:45 pm. Snacks will be provided during the opening ceremony, but it is recommended to have dinner prior to the ceremony.\nWork hours: 6:45 pm - late. Groups are encouraged to stay in Bi Hall and work on their projects.\n\n\n\n\n\nWork hours: 8:00 am - late. Groups are encouraged to stay in Bi Hall and work on their projects.\n\n\n\n\n\nWork hours: 8:00 am - 11:00 am. Groups are encouraged to stay in Bi Hall and work on their projects.\nPresentations: 11:00 am - 12:00 pm. Groups will be given 5 minutes to present their findings to a panel of judges. Locations TBD.\nClosing ceremony: 12:15 pm - 12:30 pm. Closing thoughts and awards."
+  },
+  {
+    "objectID": "schedule.html#schedule",
+    "href": "schedule.html#schedule",
+    "title": "ASA DataFest 2026",
+    "section": "",
+    "text": "The event will be held at the Q-Center (MBH 202) and will start on April 4th. Notable times are provided below.\n\n\n\nOpening ceremony: 6:00 pm - 6:45 pm. Snacks will be provided during the opening ceremony, but it is recommended to have dinner prior to the ceremony.\nWork hours: 6:45 pm - late. Groups are encouraged to stay in Bi Hall and work on their projects.\n\n\n\n\n\nWork hours: 8:00 am - late. Groups are encouraged to stay in Bi Hall and work on their projects.\n\n\n\n\n\nWork hours: 8:00 am - 11:00 am. Groups are encouraged to stay in Bi Hall and work on their projects.\nPresentations: 11:00 am - 12:00 pm. Groups will be given 5 minutes to present their findings to a panel of judges. Locations TBD.\nClosing ceremony: 12:15 pm - 12:30 pm. Closing thoughts and awards."
+  },
+  {
+    "objectID": "schedule.html#live-calendar",
+    "href": "schedule.html#live-calendar",
+    "title": "ASA DataFest 2026",
+    "section": "Live calendar",
+    "text": "Live calendar\nThe calendar below provides live updates regarding meeting time, food availability, etc."
+  }
+]
