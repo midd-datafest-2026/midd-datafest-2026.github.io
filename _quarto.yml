@@ -10,6 +10,9 @@ website:
     type: primary
     position: below-navbar
   navbar:
+    logo: figures/midd_shield.png   # or .svg
+    logo-alt: "Middlebury College"
+    logo-href: https://www.middlebury.edu
     search: true
     left:
       - text: About DataFest
@@ -31,7 +34,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: style.css
     toc: true
 
 execute:
