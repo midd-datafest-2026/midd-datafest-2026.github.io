@@ -21,8 +21,8 @@ website:
         href: register.qmd
       # - text: Schedule
       #   href: schedule.qmd
-      # - text: Volunteer sign-up
-      #   href: volunteers.qmd
+      - text: Volunteer sign-up
+        href: volunteers.qmd
       # - text: Data access
       #   href: data.qmd
       # - text: Room assignment

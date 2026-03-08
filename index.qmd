@@ -25,15 +25,13 @@ How do we quantify the role of fatigue and workload in a team’s performance in
 
 ## Event Details
 
-- TBD.
-
-<!-- - **Date:** April 4 - April 6 -->
-<!--   - **Opening ceremony:** Friday, April 4 6:00 pm -->
-<!--   - **Presentations:** Sunday, April 6 11:00 am -->
-<!--   - **Closing ceremony:** Sunday, April 6 12:15 pm -->
-<!-- - **Location:** The Q-Center (MBH 202) -->
-<!-- - **Prizes:** Prizes will be awarded for a variety of reasons, both technical and creative. -->
-<!-- - **Snacks will be provided throughout the weekend** -->
+- **Date:** April 18 - April 19
+  - **Opening ceremony:** Saturday, April 18 10:00 am
+  - **Presentations:** Sunday, April 19 2:00 pm
+  - **Closing ceremony:** Sunday, April 19 3:30 pm
+- **Location:** The Q-Center (MBH 202)
+- **Prizes:** Prizes will be awarded for a variety of reasons, both technical and creative.
+- **Snacks will be provided throughout the weekend**
 
 
 ## Volunteers
