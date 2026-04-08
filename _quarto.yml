@@ -1,5 +1,6 @@
 project:
   type: website
+  pre-render: build_carousel.R
 
 website:
   title: "ASA DataFest 2026"
@@ -19,14 +20,16 @@ website:
         href: index.qmd
       - text: Register
         href: register.qmd
-      # - text: Schedule
-      #   href: schedule.qmd
+      - text: Schedule
+        href: schedule.qmd
       - text: Volunteer sign-up
         href: volunteers.qmd
       # - text: Data access
       #   href: data.qmd
       # - text: Room assignment
       #   href: room_assign.qmd
+      - text: Past Events
+        href: past.qmd
     tools:
       - icon: envelope-at
         href: mailto:cstratton@middlebury.edu

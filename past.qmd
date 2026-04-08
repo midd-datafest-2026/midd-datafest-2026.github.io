@@ -1,0 +1,15 @@
+---
+---
+## Past Events
+
+### DataFest 2025
+
+In 2025, Middlebury hosted its first DataFest event. More than 150 students participated throughout the weekend. See photos below!
+
+```{=html}
+{{< include datafest2025_carousel.html >}}
+```
+
+<!-- cd images/datafest2025 -->
+<!-- for f in *.HEIC; do sips -s format jpeg "$f" --out "${f%.heic}.jpg"; done -->
+<!-- cd ../.. -->
